@@ -1,0 +1,21 @@
+{
+  "name": "@redwingfm/portfolio",
+  "version": "0.0.1",
+  "description": "My Portfolio",
+  "main": "main.js",
+  "scripts": {
+    "watch": "gulp watch"
+  },
+  "keywords": [
+    "portfolio",
+    "html",
+    "css",
+    "js"
+  ],
+  "author": "Pavel Tereshchenkov <redwing.fm@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.29.3",
+    "gulp": "^4.0.2"
+  }
+}
